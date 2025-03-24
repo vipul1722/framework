@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file is for f1 and this for for logging
+=======
+this line is for learming merging and i can learn merging
+>>>>>>> feature2
